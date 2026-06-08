@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Overview
 
 This is a Dynamic Form Builder System similar to Google Forms, where forms are not hardcoded but created dynamically by an admin. Each form is stored in the database with its own structure and can be accessed via a unique URL.
@@ -43,3 +44,7 @@ Clean architecture practices
  Status
 
 Project is under active development and being built as part of a full-stack development assignment.
+=======
+# form-builder-fullstack
+A full-stack dynamic form builder application built using React, Express, and MongoDB. This project allows admins to create custom forms with different field types, share them via unique links, and collect user responses. It also includes an analytics dashboard to visualize form submissions and insights in real-time.
+>>>>>>> 59c9632d5805244cde2a43e68f1e9f35ff5b4888
